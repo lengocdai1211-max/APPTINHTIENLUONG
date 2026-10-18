@@ -1,7 +1,7 @@
 
 import streamlit as st
 import os
-st.image("LOGOJPG.jpg")
+st.image("LOGO.jpg.jpg")
 import pandas as pd
 
 # =========================
