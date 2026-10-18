@@ -268,7 +268,7 @@ def tao_file_excel(df_chi_tiet):
 # ==================================================
 # 3. GIAO DIỆN
 # ==================================================
-st.title("💰 ỨNG DỤNG TÍNH LƯƠNG VÀ THUẾ TNCN")
+st.title("💰 TÍNH LƯƠNG VÀ THUẾ TNCN-LÊ NGỌC ĐẠI")
 st.markdown(
     "Tính lương hàng loạt cho tối đa **500 người lao động** "
     "và xuất báo cáo Excel."
