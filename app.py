@@ -40,7 +40,7 @@ def tinh_thue_tncn(thu_nhap_tinh_thue):
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("💰 ỨNG DỤNG TÍNH THUẾ TNCN")
+st.title("💰 PHẦN MỀM TÍNH TIỀN LƯƠNG-LÊ NGỌC ĐẠI")
 st.subheader("Tính thu nhập và tiền lương thực lãnh của người lao động")
 st.caption(
     "Đơn vị tính: triệu đồng/tháng. "
